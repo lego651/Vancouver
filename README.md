@@ -1,5 +1,7 @@
 # ShipFast — Javascript
 
+TEST
+
 Hey maker 👋 it's Marc from [ShipFast](https://shipfa.st/docs). Let's get your startup off the ground, FAST ⚡️
 
 <sub>**Watch/Star the repo to be notified when updates are pushed**</sub>
